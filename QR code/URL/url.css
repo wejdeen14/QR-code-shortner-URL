@@ -1,0 +1,56 @@
+body{
+	background-image: url(cc.jpg);
+	
+	background-size: cover;
+	text-align: center;
+
+}
+
+input{
+	position: relative;
+	display: inline-flex;
+	font-size: 25px;
+	box-sizing: border-box;
+border-style: none;
+border-radius: 25px 0 0 25px;
+
+}
+input[type="url"]
+{
+	width: 800px;
+	height: 50px;
+}
+
+div{
+	padding-top: 200px;
+
+}
+.submit{
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	border-radius: 0 25px  25px 0;
+	width: 150px;
+	height: 50px;
+	cursor: pointer;
+	left: -5px;
+}
+.submit:hover{
+	background-color: blue;
+}
+.courte{
+	color: grey;
+	font-size: 20px;
+	text-align: left;
+	padding-left: 280px;
+
+}
+h1{
+	padding-top: 40px;
+		font-size: 35px;
+	font-family: "Algerian";
+	font-weight: 800;
+	
+	color: black;
+
+}

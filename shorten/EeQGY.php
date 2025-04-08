@@ -1,0 +1,1 @@
+<?phpheader("Location: http://localhost/projet/URL/champ.php");?>

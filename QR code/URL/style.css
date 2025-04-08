@@ -1,0 +1,110 @@
+.qr
+{
+	font-size: 35px;
+	font-family: "Algerian";
+	font-weight: bold;
+	font-style: italic;
+
+	}
+
+
+
+header{
+	background-color: black;
+	 display: flex;
+    width:100%;
+    z-index:999;
+    justify-content: space-between;
+    display:flex;
+    align-items: center;
+    color:white;
+    	position: fixed;
+    
+	}
+}
+
+	nav{
+
+		width: 600px;
+	}
+	.lec{
+		font-size: 20px;
+		font-family: 'Poppins', sans-serif; 
+		color: red;
+		padding-right: 200px;
+	}
+	#entete{
+		
+		font-size: 22px;
+	
+	}
+	.fa-user
+	{
+
+		font-size: 22px;
+		padding-right: 30px;
+	}
+	.fa-sign-in-alt
+	{
+		
+		font-size: 22px;
+		padding-right: 30px
+	}
+
+	.fa-envelope
+	{
+		
+		font-size: 22px;
+		padding-right: 30px;
+	}
+
+	body
+	{
+		background-color:#eee;
+	
+	}
+
+
+.button{
+	background-color: black;
+	color: white;
+font-size: 17px;
+font-weight: bold;
+font-family: verdana;
+border-style: inset;
+text-transform: uppercase;
+
+}
+.titreqr
+{
+	font-weight: bold;
+	font-size: 25px;
+	font-family:cursive; ;
+
+
+}
+.text{ 
+background-color: #fff;
+text-align: center;
+width: 600px;
+margin-left: 150px;
+border-radius: 50px;
+margin-top: 150px;
+border-style: double;
+
+ }
+ section { 
+ display: flex;
+  }
+
+.code{
+background-color: white;
+text-align: center;
+width: 500px;
+margin-left: 60px;
+border-radius: 50px;
+margin-top: 150px;
+border-style: double;
+
+
+}
