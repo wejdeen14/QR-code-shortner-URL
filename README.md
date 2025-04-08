@@ -30,7 +30,7 @@ Ce dépôt GitHub contient tout le code source du générateur de QR code et de 
 
 ---
 ![Background](background.png)
-![QR Code](qr code.png)
+![QR Code](qrcode.png)
 ## 🔗 API utilisée
 
 Pour la génération de QR codes, le projet utilise l'API gratuite de [goqr.me](https://goqr.me/api/) :
