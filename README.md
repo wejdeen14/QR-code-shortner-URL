@@ -1,4 +1,4 @@
-# QR Code Generator & URL Shortener 
+# QR Code Generator & URL Shortener  
 
 Ce projet propose une **plateforme web simple et intuitive** qui permet deux fonctionnalités principales :
 
